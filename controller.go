@@ -25,7 +25,6 @@ func initManager() {
 		log.Println("Failed to initialize manager!")
 		log.Fatal(err)
 	}
-
 	log.Println("Manager initialized")
 }
 

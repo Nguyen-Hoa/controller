@@ -6,8 +6,9 @@ github.com/Nguyen-Hoa/manager v0.0.0-20220907214258-9a587cc6f075 h1:G4lUIiZw3LRY
 github.com/Nguyen-Hoa/manager v0.0.0-20220907214258-9a587cc6f075/go.mod h1:mlGVAnIzPxEb5kMd4NNvZu93lPfl/JGrskf/SiWPRiE=
 github.com/Nguyen-Hoa/wattsup v1.2.1 h1:Wk8ejPFlmJ0g2lgX1oh5Wj0d2l5q2Zg6aND6hPyPo28=
 github.com/Nguyen-Hoa/wattsup v1.2.1/go.mod h1:J7uo51q7RcgqJe/Xk8YHiytVkY0jlFgoxtvYAlzxiEo=
-github.com/Nguyen-Hoa/worker v1.2.3-0.20220907212901-89384daad759 h1:H8A3m+1FE6OW+kIq+eyG2VK22UCTPJdEBaG4T/7X6SY=
 github.com/Nguyen-Hoa/worker v1.2.3-0.20220907212901-89384daad759/go.mod h1:KbhQjRW/ZzAmW/rFxyVfkSQVzCZC2+huiJEJDZUhCJU=
+github.com/Nguyen-Hoa/worker v1.2.4-0.20220909213823-344105b28972 h1:QOBQnPDURwE5iNip4Z74MrIUdNcPYEfCA9AIH9joFzs=
+github.com/Nguyen-Hoa/worker v1.2.4-0.20220909213823-344105b28972/go.mod h1:KbhQjRW/ZzAmW/rFxyVfkSQVzCZC2+huiJEJDZUhCJU=
 github.com/creack/pty v1.1.11/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
@@ -26,8 +27,8 @@ github.com/gogo/protobuf v1.3.2/go.mod h1:P1XiOD3dCwIKUDQYPy72D8LYyHL2YPYrpS2s69
 github.com/google/go-cmp v0.3.0/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMywk6iLU=
 github.com/google/go-cmp v0.4.0/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
-github.com/google/go-cmp v0.5.8 h1:e6P7q2lk1O+qJJb4BtCQXlK8vWEO8V1ZeuEdJNOqZyg=
-github.com/google/go-cmp v0.5.8/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
+github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/mackerelio/go-osstat v0.2.3 h1:jAMXD5erlDE39kdX2CU7YwCGRcxIO33u/p8+Fhe5dJw=
