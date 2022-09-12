@@ -3,6 +3,7 @@ module controller.go
 go 1.17
 
 // replace github.com/Nguyen-Hoa/manager => /Users/hoanguyen/MoCA/repos/manager
+
 // replace github.com/Nguyen-Hoa/worker => /Users/hoanguyen/MoCA/repos/worker
 
 require github.com/Nguyen-Hoa/manager v0.0.0-20220907214258-9a587cc6f075
