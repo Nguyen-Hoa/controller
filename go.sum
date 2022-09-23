@@ -6,6 +6,8 @@ github.com/Nguyen-Hoa/csvlogger v0.0.0-20220922224235-a15bfd496fe3 h1:eDraL8yqph
 github.com/Nguyen-Hoa/csvlogger v0.0.0-20220922224235-a15bfd496fe3/go.mod h1:SS0tErnfKHXCcBf8Ur6q4yCaJ1x83gixmUJJhoQOtD8=
 github.com/Nguyen-Hoa/manager v1.0.1 h1:LVAy0T8nP6PGIHeTMcPt86mFCwG/6ITbtk/vQCcjjto=
 github.com/Nguyen-Hoa/manager v1.0.1/go.mod h1:P9GkD/ZCmmC0fHeI0XUQNeYMH/LGtL1IT7sDfO1mokU=
+github.com/Nguyen-Hoa/manager v1.1.0 h1:tmCqy/DYcBhWjN658tNtgnxoU2Y0GrfbgLjLhpNjalc=
+github.com/Nguyen-Hoa/manager v1.1.0/go.mod h1:TpELKbPJvavihL+0xrs0dMHXtrK+3BJKsLUecTAghnA=
 github.com/Nguyen-Hoa/profile v0.0.0-20220914154622-1c9787b9a255/go.mod h1:VVdNlhWM+Purjxi87hCCQnedjOBBE7dqvlKU32Tgydg=
 github.com/Nguyen-Hoa/profile v1.2.1/go.mod h1:VVdNlhWM+Purjxi87hCCQnedjOBBE7dqvlKU32Tgydg=
 github.com/Nguyen-Hoa/profile v1.2.3 h1:Bhjd/09lUyH9SYoMe7kz6j27X+gr1pO9AY8Og0l8AAs=
@@ -16,6 +18,8 @@ github.com/Nguyen-Hoa/wattsup v1.4.1/go.mod h1:J7uo51q7RcgqJe/Xk8YHiytVkY0jlFgox
 github.com/Nguyen-Hoa/worker v1.3.1/go.mod h1:PLdbBazzBFan1PYt+cxlau5be6chQMV7Uf2Q1mxZHe8=
 github.com/Nguyen-Hoa/worker v1.3.2 h1:0L+CSsKtUJln2QtE57J4b/NkV2vNPac3qIxtlFni5oU=
 github.com/Nguyen-Hoa/worker v1.3.2/go.mod h1:thq1FsmTblu085a86U2XtuD40vv+dqqEwhYZXmkpSvQ=
+github.com/Nguyen-Hoa/worker v1.3.4 h1:SNTGRSJS+memSWUmIWnlCGnqn012iBVnwg25onJNMFk=
+github.com/Nguyen-Hoa/worker v1.3.4/go.mod h1:KTHZxW0gh3F2rj/GL/jlnwKgj2qtbAhbk294JHQCmpo=
 github.com/creack/pty v1.1.11/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

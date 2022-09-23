@@ -8,14 +8,14 @@ go 1.17
 
 // replace github.com/Nguyen-Hoa/worker => ../worker
 
-require github.com/Nguyen-Hoa/manager v1.0.1
+require github.com/Nguyen-Hoa/manager v1.1.0
 
 require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/Nguyen-Hoa/csvlogger v0.0.0-20220922224235-a15bfd496fe3 // indirect
 	github.com/Nguyen-Hoa/profile v1.2.3 // indirect
 	github.com/Nguyen-Hoa/wattsup v1.4.1 // indirect
-	github.com/Nguyen-Hoa/worker v1.3.2 // indirect
+	github.com/Nguyen-Hoa/worker v1.3.4 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v20.10.17+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
