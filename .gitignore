@@ -1,3 +1,4 @@
 *.json
 models/
 logs/
+test_logs/
