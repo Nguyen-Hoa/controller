@@ -8,7 +8,7 @@ go 1.17
 
 // replace github.com/Nguyen-Hoa/worker => ../worker
 
-require github.com/Nguyen-Hoa/manager v1.2.0
+require github.com/Nguyen-Hoa/manager v1.2.1
 
 require (
 	github.com/Microsoft/go-winio v0.6.0 // indirect
