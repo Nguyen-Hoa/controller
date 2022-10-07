@@ -4,18 +4,22 @@ go 1.17
 
 // replace github.com/Nguyen-Hoa/manager => ../manager
 
+// replace github.com/Nguyen-Hoa/scheduler => ../scheduler
+
 // replace github.com/Nguyen-Hoa/csvlogger => ../csvlogger
 
 // replace github.com/Nguyen-Hoa/worker => ../worker
 
-require github.com/Nguyen-Hoa/manager v1.2.3
+require github.com/Nguyen-Hoa/manager v1.3.0
 
 require (
 	github.com/Microsoft/go-winio v0.6.0 // indirect
 	github.com/Nguyen-Hoa/csvlogger v0.0.0-20220922224235-a15bfd496fe3 // indirect
+	github.com/Nguyen-Hoa/job v0.1.0 // indirect
 	github.com/Nguyen-Hoa/profile v1.2.5 // indirect
+	github.com/Nguyen-Hoa/scheduler v0.1.1 // indirect
 	github.com/Nguyen-Hoa/wattsup v1.4.1 // indirect
-	github.com/Nguyen-Hoa/worker v1.4.0 // indirect
+	github.com/Nguyen-Hoa/worker v1.5.0 // indirect
 	github.com/braintree/manners v0.0.0-20160418043613-82a8879fc5fd // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v20.10.18+incompatible // indirect
